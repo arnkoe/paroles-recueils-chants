@@ -1,0 +1,8 @@
+node_modules/
+.DS_Store
+
+# Fichiers de travail non versionnés
+JOURNAL-hec-lots.md
+JOURNAL-reflets-lots.md
+RAPPORT-lot-pilote.md
+SPEC-verification-strophes-refrains.md
